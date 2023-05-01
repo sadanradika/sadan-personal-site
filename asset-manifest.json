@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sadan-personal-site/static/css/main.7a29d2f1.css",
+    "main.js": "/sadan-personal-site/static/js/main.26838571.js",
+    "static/media/2.png": "/sadan-personal-site/static/media/2.ec4f24c996d9c57fc85f.png",
+    "static/media/4.png": "/sadan-personal-site/static/media/4.3484e323c35367c484f3.png",
+    "static/media/3.png": "/sadan-personal-site/static/media/3.2853a1c34ff7c8ce5324.png",
+    "static/media/1.png": "/sadan-personal-site/static/media/1.9c12bff879b0a7c648a5.png",
+    "static/media/5.png": "/sadan-personal-site/static/media/5.0897a73368376984757a.png",
+    "static/media/profile2.jpg": "/sadan-personal-site/static/media/profile2.1e9d89d67685fccb677a.jpg",
+    "static/media/image0.png": "/sadan-personal-site/static/media/image0.0bf6340126e51c2d411b.png",
+    "static/media/salogo.png": "/sadan-personal-site/static/media/salogo.a50bf1808c33eae7605f.png",
+    "static/media/PHP-logo.svg.png": "/sadan-personal-site/static/media/PHP-logo.svg.c14eae198bb52c22e204.png",
+    "static/media/Csharp_Logo.png": "/sadan-personal-site/static/media/Csharp_Logo.604667f6037b55a173ec.png",
+    "static/media/React_logo_wordmark.png": "/sadan-personal-site/static/media/React_logo_wordmark.e8e1169f2616b84dd8dd.png",
+    "static/media/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png": "/sadan-personal-site/static/media/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.9f4b4c78345941c5bfba.png",
+    "static/media/HTML5_logo_and_wordmark.svg.png": "/sadan-personal-site/static/media/HTML5_logo_and_wordmark.svg.8b624a5e677a19ad8814.png",
+    "index.html": "/sadan-personal-site/index.html",
+    "main.7a29d2f1.css.map": "/sadan-personal-site/static/css/main.7a29d2f1.css.map",
+    "main.26838571.js.map": "/sadan-personal-site/static/js/main.26838571.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a29d2f1.css",
+    "static/js/main.26838571.js"
+  ]
+}
